@@ -6,10 +6,13 @@ The Turtlebot model was taken from:
 
 ## Create a workspace
 
-`source /opt/ros/melodic/setup.bash`
-`mkdir -p ~/robotino_ws/src`
-`cd ~/robotino_ws/`
-`catkin_make`
+`source /opt/ros/melodic/setup.bash
+
+mkdir -p ~/robotino_ws/src
+
+cd ~/robotino_ws/
+
+catkin_make`
 
 ## Launch the simulation in Gazebo and Rviz
 
