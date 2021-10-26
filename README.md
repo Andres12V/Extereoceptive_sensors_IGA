@@ -22,5 +22,7 @@ The Turtlebot model was taken from:
 
 ## Launch the simulation in Gazebo and Rviz
 
+`source devel/setup.bash`
+
 `roslaunch turtlebot3_description spawn.launch`
 
