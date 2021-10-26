@@ -25,4 +25,3 @@ The Turtlebot model was taken from:
 `source devel/setup.bash`
 
 `roslaunch turtlebot3_description spawn.launch`
-
