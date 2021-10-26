@@ -25,3 +25,7 @@ The Turtlebot model was taken from:
 `source devel/setup.bash`
 
 `roslaunch turtlebot3_description spawn.launch`
+
+### Yo sholud see something like this in Rviz:
+
+![image](https://user-images.githubusercontent.com/73318612/138971962-e2ae5d31-ca09-4e7a-a72e-7aa391df850c.png)
