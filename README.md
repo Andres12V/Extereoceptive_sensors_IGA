@@ -18,7 +18,7 @@ The Turtlebot model was taken from:
 
 `cd src`
 
-`git clone `
+`git clone https://github.com/Andres12V/Extereoceptive_sensors_IGA.git`
 
 ## Launch the simulation in Gazebo and Rviz
 
